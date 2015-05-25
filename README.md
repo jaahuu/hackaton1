@@ -6,5 +6,7 @@ first hackaton in our guild
 2. verify NPN - done
 	- json-server -w db.json
 	- json-server db_gen_simp.js
-3. add and use faker - not done
+3. add and use faker - done
+	- use: npm install faker
+	- instead of npm install -g faker
 
